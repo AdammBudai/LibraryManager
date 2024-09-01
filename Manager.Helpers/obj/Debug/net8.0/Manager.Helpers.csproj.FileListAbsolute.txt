@@ -1,0 +1,14 @@
+D:\School\AdvancedC#\LibraryManager\Manager.Helpers\obj\Debug\net8.0\Manager.Helpers.csproj.AssemblyReference.cache
+D:\School\AdvancedC#\LibraryManager\Manager.Helpers\obj\Debug\net8.0\Manager.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\AdvancedC#\LibraryManager\Manager.Helpers\obj\Debug\net8.0\Manager.Helpers.AssemblyInfoInputs.cache
+D:\School\AdvancedC#\LibraryManager\Manager.Helpers\obj\Debug\net8.0\Manager.Helpers.AssemblyInfo.cs
+D:\School\AdvancedC#\LibraryManager\Manager.Helpers\obj\Debug\net8.0\Manager.Helpers.csproj.CoreCompileInputs.cache
+D:\School\AdvancedC#\LibraryManager\Manager.Helpers\bin\Debug\net8.0\Manager.Helpers.deps.json
+D:\School\AdvancedC#\LibraryManager\Manager.Helpers\bin\Debug\net8.0\Manager.Helpers.runtimeconfig.json
+D:\School\AdvancedC#\LibraryManager\Manager.Helpers\bin\Debug\net8.0\Manager.Helpers.dll
+D:\School\AdvancedC#\LibraryManager\Manager.Helpers\bin\Debug\net8.0\Manager.Helpers.pdb
+D:\School\AdvancedC#\LibraryManager\Manager.Helpers\obj\Debug\net8.0\Manager.Helpers.dll
+D:\School\AdvancedC#\LibraryManager\Manager.Helpers\obj\Debug\net8.0\refint\Manager.Helpers.dll
+D:\School\AdvancedC#\LibraryManager\Manager.Helpers\obj\Debug\net8.0\Manager.Helpers.pdb
+D:\School\AdvancedC#\LibraryManager\Manager.Helpers\obj\Debug\net8.0\Manager.Helpers.genruntimeconfig.cache
+D:\School\AdvancedC#\LibraryManager\Manager.Helpers\obj\Debug\net8.0\ref\Manager.Helpers.dll

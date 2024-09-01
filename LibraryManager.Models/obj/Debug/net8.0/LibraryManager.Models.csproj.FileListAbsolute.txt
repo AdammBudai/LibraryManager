@@ -1,0 +1,15 @@
+D:\School\AdvancedC#\LibraryManager\LibraryManager.Models\bin\Debug\net8.0\LibraryManager.Models.deps.json
+D:\School\AdvancedC#\LibraryManager\LibraryManager.Models\bin\Debug\net8.0\LibraryManager.Models.dll
+D:\School\AdvancedC#\LibraryManager\LibraryManager.Models\bin\Debug\net8.0\LibraryManager.Models.pdb
+D:\School\AdvancedC#\LibraryManager\LibraryManager.Models\obj\Debug\net8.0\LibraryManager.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\AdvancedC#\LibraryManager\LibraryManager.Models\obj\Debug\net8.0\LibraryManager.Models.AssemblyInfoInputs.cache
+D:\School\AdvancedC#\LibraryManager\LibraryManager.Models\obj\Debug\net8.0\LibraryManager.Models.AssemblyInfo.cs
+D:\School\AdvancedC#\LibraryManager\LibraryManager.Models\obj\Debug\net8.0\LibraryManager.Models.csproj.CoreCompileInputs.cache
+D:\School\AdvancedC#\LibraryManager\LibraryManager.Models\obj\Debug\net8.0\LibraryManager.Models.dll
+D:\School\AdvancedC#\LibraryManager\LibraryManager.Models\obj\Debug\net8.0\refint\LibraryManager.Models.dll
+D:\School\AdvancedC#\LibraryManager\LibraryManager.Models\obj\Debug\net8.0\LibraryManager.Models.pdb
+D:\School\AdvancedC#\LibraryManager\LibraryManager.Models\obj\Debug\net8.0\ref\LibraryManager.Models.dll
+D:\School\AdvancedC#\LibraryManager\LibraryManager.Models\bin\Debug\net8.0\Manager.Helpers.dll
+D:\School\AdvancedC#\LibraryManager\LibraryManager.Models\bin\Debug\net8.0\Manager.Helpers.pdb
+D:\School\AdvancedC#\LibraryManager\LibraryManager.Models\obj\Debug\net8.0\LibraryManager.Models.csproj.AssemblyReference.cache
+D:\School\AdvancedC#\LibraryManager\LibraryManager.Models\obj\Debug\net8.0\LibraryM.AC6BCD03.Up2Date
